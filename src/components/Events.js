@@ -1,5 +1,4 @@
 import React, { useContext } from 'react'
-
 import Event from './Event'
 import AppContext from '../contexts/AppContext'
 
